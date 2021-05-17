@@ -2,15 +2,15 @@ package com.sliit.mtit.microservices.supplieraccount.dto;
 
 public class SupplierAccountResponse {
 
-    private String supplireId;
+    private String supplierId;
     private String message;
 
     public String getSupplireId() {
-        return supplireId;
+        return supplierId;
     }
 
     public void setSupplireId(String supplireId) {
-        this.supplireId = supplireId;
+        this.supplierId = supplireId;
     }
 
     public String getMessage() {

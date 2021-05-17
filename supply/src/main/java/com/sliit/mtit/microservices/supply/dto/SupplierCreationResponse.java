@@ -5,12 +5,12 @@ public class SupplierCreationResponse {
     private String supplierId;
     private String message;
 
-    public String getSupplierId() {
+    public String getSupplireId() {
         return supplierId;
     }
 
-    public void setSupplierId(String supplierId) {
-        this.supplierId = supplierId;
+    public void setSupplireId(String supplireId) {
+        this.supplierId = supplireId;
     }
 
     public String getMessage() {

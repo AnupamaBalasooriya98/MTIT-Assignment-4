@@ -31,7 +31,7 @@ public class SupplyServiceImpl {
 
         SupplyResponse response = new SupplyResponse();
         response.setSupplyId(UUID.randomUUID().toString());
-        response.setSupplierId(supplierCreationResponseEntity.getBody().getSupplierId());
+        response.setSupplierId(supplierCreationResponseEntity.getBody().getSupplireId());
         response.setMessage("Successfully created the supply");
 
         return response;
