@@ -30,7 +30,7 @@ public class OrderServiceImpl {
 
         OrderResponse orderResponse = new OrderResponse();
         orderResponse.setOrderId(UUID.randomUUID().toString());
-        orderResponse.setUserId(userCreationResponseEntity.getBody().getUserId());
+        orderResponse.setUserId(userCreationResponseEntity.getBody().getAccountId());
         orderResponse.setMessage("Successfully created the order");
 
         return orderResponse;

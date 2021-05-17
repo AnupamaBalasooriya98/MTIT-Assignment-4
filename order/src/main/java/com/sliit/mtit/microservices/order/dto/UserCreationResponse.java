@@ -2,15 +2,15 @@ package com.sliit.mtit.microservices.order.dto;
 
 public class UserCreationResponse {
 
-    private String userId;
+    private String accountId;
     private String message;
 
-    public String getUserId() {
-        return userId;
+    public String getAccountId() {
+        return accountId;
     }
 
-    public void setUserId(String userId) {
-        this.userId = userId;
+    public void setAccountId(String accountId) {
+        this.accountId = accountId;
     }
 
     public String getMessage() {
