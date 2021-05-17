@@ -1,0 +1,7 @@
+com\sliit\mtit\microservices\supply\dto\SupplierCreationResponse.class
+com\sliit\mtit\microservices\supply\controller\SupplyController.class
+com\sliit\mtit\microservices\supply\dto\SupplyRequest.class
+com\sliit\mtit\microservices\supply\service\SupplyServiceImpl.class
+com\sliit\mtit\microservices\supply\SupplyApplication.class
+com\sliit\mtit\microservices\supply\dto\SupplierCreationRequest.class
+com\sliit\mtit\microservices\supply\dto\SupplyResponse.class

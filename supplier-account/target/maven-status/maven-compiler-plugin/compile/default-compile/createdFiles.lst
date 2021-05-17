@@ -1,0 +1,4 @@
+com\sliit\mtit\microservices\supplieraccount\dto\SupplierAccountResponse.class
+com\sliit\mtit\microservices\supplieraccount\controller\SupplierAccountController.class
+com\sliit\mtit\microservices\supplieraccount\dto\SupplierAccountRequest.class
+com\sliit\mtit\microservices\supplieraccount\SupplierAccountApplication.class
