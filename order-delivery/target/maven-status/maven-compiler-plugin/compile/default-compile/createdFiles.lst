@@ -1,0 +1,4 @@
+com\sliit\mtit\microservices\orderdelivery\dto\OrderDeliveryRequest.class
+com\sliit\mtit\microservices\orderdelivery\controller\OrderDeliveryController.class
+com\sliit\mtit\microservices\orderdelivery\dto\OrderDeliveryResponse.class
+com\sliit\mtit\microservices\orderdelivery\OrderDeliveryApplication.class

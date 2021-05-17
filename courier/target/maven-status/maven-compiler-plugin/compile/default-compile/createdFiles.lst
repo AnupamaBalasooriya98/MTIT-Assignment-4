@@ -1,0 +1,7 @@
+com\sliit\mtit\microservices\courier\dto\CourierRequest.class
+com\sliit\mtit\microservices\courier\dto\DeliveryCreationRequest.class
+com\sliit\mtit\microservices\courier\dto\DeliveryCreationResponse.class
+com\sliit\mtit\microservices\courier\controller\CourierController.class
+com\sliit\mtit\microservices\courier\dto\CourierResponse.class
+com\sliit\mtit\microservices\courier\service\CourierServiceImpl.class
+com\sliit\mtit\microservices\courier\CourierApplication.class
